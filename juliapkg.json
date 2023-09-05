@@ -1,0 +1,9 @@
+{
+  "julia": "1.7",
+  "packages": {
+    "DifferentiableTrajectoryOptimization": {
+      "uuid": "86fad55d-71c6-41a1-96ed-88d107dcd2ba",
+      "version": "0.2"
+    }
+  }
+}
